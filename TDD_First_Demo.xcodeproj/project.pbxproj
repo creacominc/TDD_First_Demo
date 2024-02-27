@@ -38,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		36B84D8B2B8D75720051E95A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		36F1B9A62B8D4D0500326BBA /* TDD_First_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TDD_First_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F1B9A92B8D4D0500326BBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36F1B9AB2B8D4D0500326BBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 		36F1B99D2B8D4D0500326BBA = {
 			isa = PBXGroup;
 			children = (
+				36B84D8B2B8D75720051E95A /* LICENSE */,
 				36F1B9DF2B8D644800326BBA /* TDD_First_Demo.xctestplan */,
 				36F1B9DC2B8D5D4F00326BBA /* TDD_Logic_Tests */,
 				36F1B9D92B8D5C0A00326BBA /* TDD_Logic */,
